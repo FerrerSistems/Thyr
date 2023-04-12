@@ -1,6 +1,11 @@
 {
  "version":"1",
- "title":"Estas al dia!!",
- "description":"Felicidades, estas al dia con la ultima version, si sale una mejora o contenido nuevo te avisaremos!. ",
+ "title":"Actualizacion!! v10.6",
+  	<date>11/04/2023</date>
+    <hr/>
+        <p> 
+            <pointx>ADICIONADO</pointx>Tres estilos de video en el home<br>
+            <pointx>FIX</pointx>Correcion de bug de colores.<br>
+            <pointx>ADICIONADO</pointx>Anticaducidad 200 dias.<br>
  "download":"https://youtube.com/c/AlexanderTvOficial"
 }
