@@ -1,28 +1,12 @@
 {
  "version":"1",
- "title":"Actualizacion! V10.9 Sin Bugs",
- "description":"-Bugs de resueltos 100% 
-
--Desactivar sensor al reproducir un audio.
-
--Reenviar audios y notas de voz a estados.
-
--Inmunidad a crash de pagos (boton)
-
--Nuevo splash
-
--Fecha y el cartel de seguridad de los chats transparentes con capacidad de personalizar.
-
--El boton de inmune a trabas termux ahora es inmune a mas trabas bug crash y carrito.
-
--Eliminar a todos al salir.
-
--Inmune 100% a cualquier traba de notificacion.
-
--Se arreglo el boton de enviar todas las trabas.(Mala mia)
-
--Metodo interno de mandar mensajes en grupos cerrados (visual por ahora).
-
--Botones de desempeño..",
+ "title":"Estás al día!",
+ "description":"Estás al día,la última actualización fue la V10.9 si no descargaste esa actualización dale en actualizar aquí abajo.
+-Correciones:
+A darle enviar todas las trabas en el autoot XL se congelaba.
+Crash en algunos teléfonos al momento de llamar/recibir llamada.
+-Añadido:
+Botones de desempeño, eliminar a todos,reenviar audio en estado etc.
+Disfruta de esta hermosa nave!",
  "download":"https://apkadmin.com/n0ww8migxptj/Ghost_V10_dcc_encrypt2_r_flow-m_sign.apk.html"
 }
